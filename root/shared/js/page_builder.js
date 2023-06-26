@@ -24,7 +24,7 @@ $(document).ready(function() {
   }
   //$("#main_header").load("shared/_header.html", header_callback ); 
   // $("#profile-card").load("profile_card.html",profile_card_callback);
-  $("#subscriptions").load("/root/shared/partials/_subscription-info.html",subscription_callback);
+  $("#subscriptions").load("root/shared/partials/_subscription-info.html",subscription_callback);
   //$("#main_footer").load("shared/_footer.html");
  
   
